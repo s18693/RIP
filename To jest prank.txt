@@ -1,6 +1,7 @@
-Napisac cos fajnego.
-main(){
-return 0;
+//Napisac cos fajnego.
+
+private String rets(){
+
+	return "tekst dodany z branch-a";
 }
 
-tekst dodany z branch-a
