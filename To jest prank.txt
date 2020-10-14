@@ -1,1 +1,4 @@
-Napisac cos fajnego
+Napisac cos fajnego.
+main(){
+return 0;
+}
